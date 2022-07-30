@@ -54,7 +54,7 @@ p{
 
 @media (max-width: 375px) {
   
-    .qr-code {
+    qr-code {
       margin: 50px 25px 0 25px;
     }
   }
